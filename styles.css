@@ -1,0 +1,44 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+}
+
+.box {
+    width: 600px;
+    margin: auto;
+}
+
+.post {
+    background-color: white;
+}
+
+.user-date {
+
+    display: flex;
+}
+
+.user-date h2 {
+    width: 550px;
+    padding: 10px;
+    margin: 0;
+}
+
+.user-date span {
+    padding: 12px;
+}
+
+.post img {
+    width: 100%;
+    height: 300px;
+}
+
+p {
+    padding: 10px;
+    margin: 0;
+}
